@@ -1,6 +1,6 @@
 # Single-Page HTML CV
 
-A minimal and responsive single-page CV built with HTML and CSS. This project is part of my roadmap journey from [roadmap.sh](https://roadmap.sh), helping me practice front-end development while creating a professional online resume.
+A minimal and responsive single-page CV built with HTML and CSS. [This project](https://roadmap.sh/projects/single-page-cv) is part of my roadmap journey from [roadmap.sh](https://roadmap.sh), helping me practice front-end development while creating a professional online resume.
 
 ## 🚀 Features
 
